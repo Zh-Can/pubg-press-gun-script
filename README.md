@@ -24,5 +24,11 @@
 3. 勾选调试模式可对压枪数据进行调整
 
 
-项目参考
+### 项目参考
 https://github.com/cdians/youyiPUBG
+
+赞助
+
+QQ群:915979538
+
+![image-20211001160725656](./doc/zfb.jpg)

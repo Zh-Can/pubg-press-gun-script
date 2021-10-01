@@ -1,5 +1,10 @@
 # pubg-press-gun-script
 
+### 2.0展望
+
+1. UI将使用JAVAFX开发
+2. 尝试做自动识别
+
 
 ### pubg压枪脚本界面展示
 

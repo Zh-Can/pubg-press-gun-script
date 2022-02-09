@@ -1,5 +1,7 @@
 # pubg-press-gun-script
 
+### 由于朋友都弃游了，放弃再次开发了。。。
+
 ### 2.0展望
 
 1. UI将使用JAVAFX开发
@@ -31,9 +33,3 @@
 
 ### 项目参考
 https://github.com/cdians/youyiPUBG
-
-赞助
-
-QQ群:915979538
-
-![image-20211001160725656](./doc/zfb.jpg)
